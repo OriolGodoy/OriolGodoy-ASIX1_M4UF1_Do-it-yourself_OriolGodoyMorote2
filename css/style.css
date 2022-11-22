@@ -1,0 +1,84 @@
+* {
+    margin: 0%;
+    font-family: Raleway, sans-serif;
+}
+
+#header {
+    height: 100vh;
+    background-image: url(../img/fondo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#header h1 {
+    color: red;
+    padding-left: 33%;
+    font-size: 50px;
+}
+
+.urban {
+    background-color: black;
+    color: white;
+}
+
+.argentina {
+    color: white;
+    background-color: aqua;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+}
+
+.chile {
+    color: rgb(255, 0, 0);
+    background-color: blue;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+}
+
+.españa {
+    color: yellow;
+    background-color: red;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+}
+
+.mexico {
+    color: white;
+    background-color: green;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+}
+
+.peru {
+    color: white;
+    background-color: red;
+    padding: 2px;
+    border-radius: 5px;
+    text-align: center;
+    width: 20%;
+}
+
+img {
+    width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.espacio {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
